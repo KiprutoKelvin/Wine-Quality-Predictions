@@ -1,1 +1,1 @@
-# I am the only Contributor for this repository
+# I am the Contributor for this repository
